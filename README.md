@@ -15,4 +15,14 @@ Formular 2: Zaposleni
   ime:
   prezime:
 <dugme Sacuvaj>
+
+Formular 3: Paket
+naziv
+iznos
+<dugme Sacuvaj>
+
+Formular 4: Korisnik
+ime
+prezime
+<dugme Sacuvaj>
 ```
