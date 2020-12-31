@@ -9,4 +9,10 @@ Formular 1: Firma
   racun:
   valuta:
 <dugme Sacuvaj>
+
+Formular 2: Zaposleni
+  email:
+  ime:
+  prezime:
+<dugme Sacuvaj>
 ```
